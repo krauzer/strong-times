@@ -1,4 +1,10 @@
 .rest_timer {
+font-size: 2.25em;
+position: relative;
+float: right;
+}
+
+.rest_timer {
   font-size: 2.25em;
   position: relative;
   float: right;
@@ -110,4 +116,5 @@ p {
 .content {
   color: peru;
 }
+
 
