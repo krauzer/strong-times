@@ -50,7 +50,7 @@ p {
 /*modal button*/
 .modal {
   position: absolute;
-  top: 425px;
+  top: 500px;
   left: 50%;
   padding: 10em;
   border-radius: .5em;
